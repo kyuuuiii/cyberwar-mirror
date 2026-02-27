@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: table_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: cec339e7e2a57884fbb9eef0ae0fedd7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 81179697152
+    m_Localized: giocare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 144211697664
+    m_Localized: impostazioni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 718764236800
+    m_Localized: uscire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4798144307200
+    m_Localized: 'suoni:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6190602903552
+    m_Localized: 'controlli:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7028339630080
+    m_Localized: 'WASD o frecce - movimento
+
+      LMB - spara
+
+      ESC - pausa
+
+      R
+      - riavvia'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7986972975104
+    m_Localized: menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30736735264768
+    m_Localized: gioco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31552514809856
+    m_Localized: pausa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31994900635648
+    m_Localized: '> PREMERE ''ESC'' PER CONTINUARE'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33408850845696
+    m_Localized: '> PREmere ''SPAzio'' per tornare al menu'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40102423158784
+    m_Localized: '3DSHOOTER.EXE HA SMESSO DI FUNZIONARE
+
+      ERRORE FATALE: HP
+      NON SUFFICIENTI PER CONTINUARE
+
+
+      PREMI "R" PER RIAVVIARE'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4337882227511296
+    m_Localized: multigiocatore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4344223591534592
+    m_Localized: 'Lingua:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4356676882763776
+    m_Localized: "Puntuaci\xF3n: {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4409479978258432
+    m_Localized: creare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4409974532837376
+    m_Localized: giuntura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8625082368757760
+    m_Localized: Nome della stanza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8961542468898816
+    m_Localized: caricamento...
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
