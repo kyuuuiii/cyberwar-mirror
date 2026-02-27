@@ -1,6 +1,6 @@
 # CYBERWAR
 
-[![Unity](https://img.shields.io/badge/Unity-2021.3+-black?logo=unity)](https://unity.com/)
+[![Unity](https://img.shields.io/badge/Unity-2022.3.47f1-black?logo=unity)](https://unity.com/releases/editor/whats-new/2022.3.47)
 [![Networking](https://img.shields.io/badge/Networking-Mirror-5391FE)](https://mirror-networking.com/)
 [![Genre](https://img.shields.io/badge/Genre-Top--Down%20Shooter-orange)]()
 
